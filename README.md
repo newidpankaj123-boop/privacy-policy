@@ -1,25 +1,70 @@
-# privacy-policy
-<!DOCTYPE html>
-<html>
-<head>
-<title>Privacy Policy</title>
-</head>
-<body>
-<h1>Privacy Policy</h1>
+# Privacy Policy
 
-<p>Last Updated: June 2026</p>
+**Last Updated:** June 2026
 
-<p>This application does not collect, store, or share personal information.</p>
+## Introduction
 
-<p>The app accesses audio files stored on your device solely to provide music playback and library management features. Music files remain on your device and are never uploaded to any server.</p>
+Thank you for using **Offline Music Player**. Your privacy is important to us. This Privacy Policy explains how the application handles information when you use our app.
 
-<p>Bluetooth permissions may be used to support playback through Bluetooth audio devices.</p>
+## Information We Collect
 
-<p>The app may display playback notifications while music is playing.</p>
+**Offline Music Player** does not collect, store, transmit, or share any personal information from users.
 
-<p>No personal data is sold, shared, or transmitted to third parties.</p>
+The app does not require:
 
-<p>If you have any questions, contact us at newidpankaj123@gmail.com/p>
+* User registration
+* User accounts
+* Login credentials
+* Personal information such as name, email address, phone number, or location
 
-</body>
-</html>
+## Device Storage Access
+
+The app requests access to your device's media files in order to:
+
+* Discover and display audio files stored on your device
+* Play music selected by the user
+* Manage music files through features such as copy, move, share, and delete
+
+All file access occurs locally on your device. Your music files are never uploaded to any server.
+
+## Bluetooth Permissions
+
+The app may request Bluetooth permissions to:
+
+* Connect with Bluetooth audio devices
+* Detect and manage Bluetooth playback devices
+* Provide playback controls through connected Bluetooth accessories
+
+Bluetooth-related information remains on your device and is not transmitted to us.
+
+## Notifications
+
+The app may display media playback notifications to provide playback controls while music is playing in the background.
+
+These notifications are generated locally on your device.
+
+## Data Sharing
+
+We do not sell, rent, share, or disclose any user data to third parties.
+
+## Children's Privacy
+
+This application does not knowingly collect personal information from children under the age of 13.
+
+## Security
+
+Since the application does not collect or transmit personal information, your data remains on your device under your control.
+
+## Third-Party Services
+
+The application does not use third-party services to collect personal information from users.
+
+## Changes to This Privacy Policy
+
+We may update this Privacy Policy from time to time. Any changes will be reflected by updating the "Last Updated" date above.
+
+## Contact Us
+
+If you have any questions regarding this Privacy Policy, please contact us at:
+
+**Email:** [your-email@example.com](newidpankaj123@gmail.com)
