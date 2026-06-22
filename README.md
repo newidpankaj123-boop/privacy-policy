@@ -65,8 +65,6 @@ We may update this Privacy Policy from time to time. Any changes will be reflect
 
 ## Contact Us
 
-## Contact Us
-
 If you have any questions, concerns, complaints, or requests regarding this Privacy Policy or the use of the application, please contact us using the details below:
 
 **Developer Email:** [newidpankaj123@gmail.com](mailto:newidpankaj123@gmail.com)
@@ -74,3 +72,4 @@ If you have any questions, concerns, complaints, or requests regarding this Priv
 **Grievance Officer Email:** [newidpankaj123@gmail.com](mailto:newidpankaj123@gmail.com)
 
 We will make reasonable efforts to respond to your inquiries and resolve any concerns in a timely manner.
+
